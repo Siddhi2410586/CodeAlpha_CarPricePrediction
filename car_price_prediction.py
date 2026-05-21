@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # 1. LOAD DATA
-df = pd.read_csv('dataset/car_data.csv')
+df = pd.read_csv('car_data.csv')
 print("="*60)
 print("CODEALPHA TASK 3: CAR PRICE PREDICTION")
 print("="*60)
